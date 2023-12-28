@@ -1,0 +1,3 @@
+# ignore files that maybe created by Luxor
+*.svg
+*.png
